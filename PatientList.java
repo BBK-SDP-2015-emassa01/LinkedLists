@@ -33,7 +33,8 @@ public class PatientList {
          Patient1 newT = new Patient1("Dad", 65);
          
          
-         //patientListStart.addPatient(newP); It does not work if you add the first element to the list
+         //patientListStart.addPatient(newP); 
+         //It does not work if you add the first element to the list
          patientListStart.addPatient(newQ);
          patientListStart.addPatient(newR);
          patientListStart.addPatient(newS);
