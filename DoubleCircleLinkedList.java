@@ -43,6 +43,7 @@ public class DoubleCircleLinkedList {
             System.out.println("info and next plus previous link:"
                     + " \ninfo:" + info + "\nnext:"+next+ "\nprevious:" + previous + "\nhead:"+head);
             this.next.printLinks();
+            //still buggy
         }
     }
     
